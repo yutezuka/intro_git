@@ -1,2 +1,4 @@
 gitの練習
 gitを編集してみます
+gitadd
+gitcommit
